@@ -16,16 +16,16 @@
 <details>
   <summary>Experience :scroll:</summary>
   <ul>
-      <li>Serviligne Development - 6 months internship as an Embedded Software Engineer (2020)</li>
-      <li>Cadence Design Systems - 1 month internship as a Student (2015)</li>
+      <li>Serviligne Development - 6 months internship as an Embedded Software Engineer (2020) :fr:</li>
+      <li>Cadence Design Systems - 1 month internship as a Student (2015) :fr:</li>
   </ul>
 </details>
 
 <details>
     <summary>Formations :mortar_board:</summary>
     <ul>
-        <li>European Institute of Technology, Epitech Barcelona - Master's degree (2019/2024)</li>
-        <li>Amiral de Grasse High School, Scientific Baccalaureate - Computer and digital sciences (2016/2019)</li>
+        <li>European Institute of Technology, Epitech Barcelona - Master's degree (2019/2024) :es:</li> 
+        <li>Amiral de Grasse High School, Scientific Baccalaureate - Computer and digital sciences (2016/2019) :fr:</li>
     </ul>
 </details>
 
