@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2>Nathan Casabieille</h2>
 
-<!--
-**nathan-casabieille/nathan-casabieille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="justified">Developer, specialized in microelectronics / embedded systems and interested in kernels, firmwares, emulation and open source projects.</p>
+<p>I like to write expressive code and optimize the memory size as well as the speed of my programs to bring out the best performance of the machine.</p>
 
-Here are some ideas to get you started:
+<details>
+  <summary>Experience :scroll:</summary>
+  <ul>
+      <li>Serviligne Development - Intern as an Embedded Engineer (2020)</li>
+      <li>Cadence Design Systems - Intern (2015)</li>
+  </ul>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+    <summary>Formations :mortar_board:</summary>
+    <ul>
+        <li>European Institute of Technology, Epitech Barcelona - Master's degree (2019/2024)</li>
+        <li>Amiral de Grasse High School, Scientific Baccalaureate - Computer and digital sciences (2016/2019)</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Volunteer experience :handshake:</summary>
+    <ul>
+        <li>President of Epitech Spain Innovation Lab</li>
+        <li>Gnu Contributor</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Honor & Award :trophy:</summary>
+    <ul>
+        <li>Berger-Levrault - City’ZEN Challenge, <strong>1st place</strong> (2020)</li>
+    </ul>
+</details>
