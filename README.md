@@ -6,8 +6,8 @@
 <details>
   <summary>Experience :scroll:</summary>
   <ul>
-      <li>Serviligne Development - Intern as an Embedded Engineer (2020)</li>
-      <li>Cadence Design Systems - Intern (2015)</li>
+      <li>Serviligne Development - 6 months internship as an Embedded Engineer (2020)</li>
+      <li>Cadence Design Systems - 1 month internship (2015)</li>
   </ul>
 </details>
 
