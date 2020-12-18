@@ -1,4 +1,14 @@
-<h2>Nathan Casabieille</h2>
+<p>
+  <strong>Age: </strong>19
+  <br />
+  <strong>Name:</strong> Nathan
+  <br />
+  <strong>Surname:</strong> Casabieille
+  <br />
+  <strong>Place of birth: </strong> Marseille, France</strong>
+  <br />
+  <strong>Current location: </strong> Barcelona, Spain
+</p>
 
 <p align="justified">Developer, specialized in microelectronics / embedded systems and interested in kernels, firmwares, emulation and open source projects.</p>
 <p>I like to write expressive code and optimize the memory size as well as the speed of my programs to bring out the best performance of the machine.</p>
