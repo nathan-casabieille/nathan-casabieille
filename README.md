@@ -32,18 +32,18 @@
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
-<p>
-  <code><img width="14%" height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/c.svg"></code>
-  <code><img width="14%" height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/c++.svg"></code>
-  <code><img width="14%" height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/react.svg"></code>
+<p style="text-align: center">
+  <code><img height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/c.svg"></code>
+  <code><img height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/c++.svg"></code>
+  <code><img height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/react.svg"></code>
   <br />
   <br />
-  <code><img width="14%" height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/javascript.svg"></code>
-  <code><img width="14%" height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/python.svg"></code>
-  <code><img width="14%" height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/php.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/bootstrap.svg"></code>
+  <code><img height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/javascript.svg"></code>
+  <code><img height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/python.svg"></code>
+  <code><img height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/php.svg"></code>
+  <code><img height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/bootstrap.svg"></code>
   <br />
   <br />
-  <code><img width="15%" height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/mysql.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/mongodb.svg"></code>
+  <code><img height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/mysql.svg"></code>
+  <code><img height="80px" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/mongodb.svg"></code>
 </p>
