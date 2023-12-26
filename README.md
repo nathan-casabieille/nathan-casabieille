@@ -21,7 +21,7 @@
   <img align="right" height="200" width="300" alt="GIF" src="https://github.com/nathan-casabieille/nathan-casabieille/blob/main/coder.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 a 4th year **Epitech** student | **Full-stack** developer
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 a 5th year **Epitech** student | **Full-stack** developer
 - 🔨 𝙸’𝚖 now working on **Mona** - an instant tutoring platform
 - 🤔 I’m looking to collaborate on challenging projects!
 
